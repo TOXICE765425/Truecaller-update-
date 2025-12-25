@@ -7,7 +7,7 @@
   "BtnLater": "LATER",
   "BtnUpdate": "UPDATE",
   "Url": "https://t.me/+CI2hME-1ycZkNmQ1",
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "Reminder": "2h",      
   "BtnTimer": 0         
 }
